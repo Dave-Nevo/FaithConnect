@@ -1,8 +1,8 @@
 import React from "react";
 // import { Calendar } from '@coreui/react-pro' 
 import Calendar from 'react-calendar';
-import LeftBooks from "../components/LeftBooks";
-import CenterBook from "../components/CenterBook";
+import LeftBooks from "../components/LeftBooks.jsx";
+import CenterBook from "../components/CenterBook.jsx";
 const BooksDsh = () => {
   return (
     <div>

@@ -49,4 +49,4 @@ const LeftBooks = () => {
   )
 }
 
-export default LeftBooks
+export default LeftBooks;
