@@ -1,6 +1,6 @@
 import React from "react";
 import Bookbg from "../../img/booksDsh.png";
-import BookStack from "../../img/bookStacks.png";
+import BookStack from "../../img/bookstacks.png";
 import Td from "../../img/TD-jakes.png";
 import Progrss from "../../img/the-progress.png";
 import River from "../../img/Riverser.png";
