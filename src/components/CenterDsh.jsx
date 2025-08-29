@@ -3,7 +3,6 @@ import Gldn from "../../img/gldn.png";
 import Ajibola from "../../img/ajibola.jpg";
 import David from "../../img/halo.jpg";
 import Sponge from "../../img/spong.png";
-import Saves from "../../img/jesus.png";
 
 const CenterDsh = () => {
   return (
@@ -104,7 +103,6 @@ const CenterDsh = () => {
             </div>
             <div class="flex items-center space-x-3 h-12 w-full pl-1 bg-gray-200 rounded-xl">
               <img
-                src={Saves}
                 alt="User Avatar"
                 class="w-10 h-10 rounded-full object-cover"
               />
