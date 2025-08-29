@@ -1,7 +1,7 @@
 import React from "react";
 // import { Calendar } from '@coreui/react-pro' 
 import Calendar from 'react-calendar';
-import LeftBooks from "../components/leftBooks";
+import LeftBooks from "../components/LeftBooks";
 import CenterBook from "../components/CenterBook";
 const BooksDsh = () => {
   return (
